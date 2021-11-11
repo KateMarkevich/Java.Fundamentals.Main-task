@@ -12,7 +12,6 @@ public class ThirdTask {
             System.out.println(randomNumberArray[i]);
         }
         for (int i = 0; i < randomNumberArray.length; i++) {
-            randomNumberArray[i] = Math.random();
             System.out.print(" " + randomNumberArray[i]);
         }
     }
